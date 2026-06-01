@@ -15,7 +15,7 @@ export function Hero() {
               Navneet Kaur
             </h1>
             <p className="text-xl md:text-2xl text-muted-foreground mb-4">
-              Digital Product Designer
+              Aspiring Full Stack Developer
             </p>
             <p className="text-muted-foreground leading-relaxed mb-8 max-w-lg">
               Aspiring software developer pursuing B.Tech in Computer Science Engineering, with growing experience in web development and programming. Enthusiastic about learning new technologies and creating impactful digital solutions.
